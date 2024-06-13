@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Americano",
+    "image": "https://i.pinimg.com/564x/cb/48/db/cb48db04009801523739569e0f33cfc3.jpg",
+    "rating": 4.8,
+    "reviews": 1450
+  },
+  {
+    "id": "2",
+    "name": "Milo",
+    "image": "https://i.pinimg.com/564x/7d/1a/73/7d1a730d7e48249644690e80c44f3155.jpg",
+    "rating": 4.9,
+    "reviews": 650
+  },
+  {
+    "id": "3",
+    "name": "teh tarik",
+    "image": "https://i.pinimg.com/564x/1c/09/72/1c09721e3b12144d120020364cd8fdb7.jpg",
+    "rating": 4.9,
+    "reviews": 550
+  }
+]

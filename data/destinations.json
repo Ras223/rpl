@@ -1,0 +1,178 @@
+[
+  {
+    "id": "1",
+    "name": "Americano",
+    "image": "https://i.pinimg.com/564x/cb/48/db/cb48db04009801523739569e0f33cfc3.jpg",
+    "description": "Escape to the ultimate tropical paradise retreat with pristine beaches, lush greenery, and luxurious accommodations.",
+    "rating": 4.8,
+    "price": "150",
+    "duration": "3",
+    "location": "Pacific Ocean",
+    "category": "Beaches"
+  },
+  {
+    "id": "2",
+    "name": "Kopi Susu",
+    "image": "https://i.pinimg.com/564x/76/a9/3a/76a93a76d225eeec463a4dc90700e79c.jpg",
+    "description": "Experience the breathtaking beauty of the Alps from your cozy chalet, surrounded by snow-capped peaks and charming villages.",
+    "rating": 4.5,
+    "price": "120",
+    "duration": "4",
+    "location": "Switzerland",
+    "category": "Mountains"
+  },
+  {
+    "id": "3",
+    "name": "Latte",
+    "image": "https://i.pinimg.com/564x/86/50/a2/8650a2e29ec10a92a53af08f6928ec4a.jpg",
+    "description": "Immerse yourself in the vibrant energy of the city with bustling streets, iconic landmarks, and endless cultural experiences.",
+    "rating": 4.7,
+    "price": "140",
+    "duration": "2",
+    "location": "USA",
+    "category": "Cities"
+  },
+  {
+    "id": "4",
+    "name": "Cappucino",
+    "image": "https://i.pinimg.com/564x/33/44/2e/33442e58a74503c7cef4fc437a4ebc8e.jpg",
+    "description": "Find serenity in the heart of nature with towering trees, hidden waterfalls, and enchanting wildlife in this magical forest retreat.",
+    "rating": 4.6,
+    "price": "180",
+    "duration": "5",
+    "location": "USA",
+    "category": "Forests"
+  },
+  {
+    "id": "5",
+    "name": "Milo",
+    "image": "https://i.pinimg.com/564x/7d/1a/73/7d1a730d7e48249644690e80c44f3155.jpg",
+    "description": "Relax and rejuvenate by the tranquil lakeside, surrounded by stunning scenery and peaceful serenity.",
+    "rating": 4.9,
+    "price": "120",
+    "duration": "3",
+    "location": "England",
+    "category": "Lakes"
+  },
+  {
+    "id": "6",
+    "name": "Matcha Latte",
+    "image": "https://i.pinimg.com/564x/97/84/40/978440fe09d65d3d1c461e614bd150d5.jpg",
+    "description": "Indulge in the ultimate beachfront luxury with pristine sands, crystal-clear waters, and world-class amenities.",
+    "rating": 4.8,
+    "price": "140",
+    "duration": "2",
+    "location": "Maldives",
+    "category": "Beaches"
+  },
+  {
+    "id": "7",
+    "name": "Caramel Choco",
+    "image": "https://i.pinimg.com/564x/db/9a/1c/db9a1ca7efa35d2d2115d9a46c5f8ff8.jpg",
+    "description": "Unwind in the lap of luxury amidst majestic mountain peaks, alpine meadows, and breathtaking vistas.",
+    "rating": 4.7,
+    "price": "100",
+    "duration": "7",
+    "location": "Canada",
+    "category": "Mountains"
+  },
+  {
+    "id": "8",
+    "name": "Avocado Milk",
+    "image": "https://i.pinimg.com/564x/96/c0/fc/96c0fc6dd3d87abd3e6f747dc8d11964.jpg",
+    "description": "Discover the cultural richness and architectural wonders of bustling metropolises around the globe.",
+    "rating": 4.6,
+    "price": "170",
+    "duration": "3",
+    "location": "Japan",
+    "category": "Cities"
+  },
+  {
+    "id": "9",
+    "name": "Mystical Forest Sanctuary",
+    "image": "https://images.unsplash.com/photo-1496564692837-ec757c470e07?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8Zm9yZXN0LG15c3RpY2FsfHx8fHx8MTcxMTAzMjgyNA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600",
+    "description": "Embark on a journey through ancient forests, mystical ruins, and hidden wonders in this enchanted sanctuary.",
+    "rating": 4.9,
+    "price": "80",
+    "duration": "2",
+    "location": "Brazil",
+    "category": "Forests"
+  },
+  {
+    "id": "10",
+    "name": "Serene Lake Retreat",
+    "image": "https://images.unsplash.com/photo-1541420937988-702d78cb9fa1?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFrZSxzZXJlbmV8fHx8fHwxNzExMDMyODcx&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600",
+    "description": "Escape the hustle and bustle of city life and immerse yourself in the serene beauty of lakeside living.",
+    "rating": 4.5,
+    "price": "120",
+    "duration": "3",
+    "location": "USA",
+    "category": "Lakes"
+  },
+  {
+    "id": "11",
+    "name": "Golden Sands Beach Resort",
+    "image": "https://images.unsplash.com/photo-1535792679781-7a212687bc8f?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8YmVhY2gsZ29sZGVufHx8fHx8MTcxMTAzMjkzOQ&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600",
+    "description": "Experience paradise on earth with golden sands, azure waters, and luxurious beachfront accommodations.",
+    "rating": 4.8,
+    "price": "150",
+    "duration": "3",
+    "location": "Fiji",
+    "category": "Beaches"
+  },
+  {
+    "id": "12",
+    "name": "Alpine Adventure Lodge",
+    "image": "https://images.unsplash.com/photo-1521929135277-1891dc05ef4d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8bW91bnRhaW4sYWxwaW5lfHx8fHx8MTcxMTAzMjk4OQ&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600",
+    "description": "Embark on an unforgettable alpine adventure with thrilling outdoor activities and cozy lodge accommodations.",
+    "rating": 4.6,
+    "price": "120",
+    "duration": "3",
+    "location": "Italy",
+    "category": "Mountains"
+  },
+  {
+    "id": "13",
+    "name": "Roti Coklat",
+    "image": "https://i.pinimg.com/564x/2f/0c/ae/2f0caee7efde2556b5158d016c97f9e5.jpg",
+    "description": "Explore the vibrant tapestry of culture, history, and art in the world's most captivating cultural capitals.",
+    "rating": 4.7,
+    "price": "130",
+    "duration": "5",
+    "location": "France",
+    "category": "Cities"
+  },
+  {
+    "id": "14",
+    "name": "Roti Susu",
+    "image": "https://i.pinimg.com/564x/c7/5b/70/c75b7084ad39d393f02e9c855263b361.jpg",
+    "description": "Step into a realm of enchantment and wonder in this mystical grove filled with ancient trees and magical creatures.",
+    "rating": 4.9,
+    "price": "150",
+    "duration": "3",
+    "location": "Germany",
+    "category": "Forests"
+  },
+  {
+    "id": "15",
+    "name": "Roti Keju",
+    "image": "https://i.pinimg.com/564x/6d/7f/01/6d7f01f6215f8d8a85fc235fcc64b5d6.jpg",
+    "description": "Find solace and tranquility amidst towering peaks and pristine wilderness in this secluded mountain hideaway.",
+    "rating": 4.8,
+    "price": "80",
+    "duration": "5",
+    "location": "Canada",
+    "category": "Mountains"
+  },
+  {
+    "id": "16",
+    "name": "Roti Martabak",
+    "image": "https://i.pinimg.com/564x/30/89/8e/30898ea51de881f9ddc09bceed8b889d.jpg",
+    "description": "Escape to a serene seaside sanctuary with breathtaking ocean views, pristine beaches, and luxurious accommodations.",
+    "rating": 4.7,
+    "price": "100",
+    "duration": "3",
+    "location": "Italy",
+    "category": "Beaches"
+  }
+]
